@@ -4,10 +4,8 @@ Este é um projeto de gameficação de uma bancada de análise de vibrações me
 Feito com Unity 3D.
 
 Como rodar o projeto:
- - You must have NodeJs installed in your PC;
- - Run `npm install` after cloning the repo;
- - Go into the `src` folder in the terminal and run `node index.js`;
- - Import `RequestExamples.json` into Insomnia software in order to see all the requests working;
+ - Você deve ter instalado o Unity 3D;
+ - Abra o projeto contido na pasta Project;
 
 ## Contributing
 Pull requests são bem vidos. Para maiores modificações, favor abrir uma issue para que possamos discutir o que você deseja alterar.
