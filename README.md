@@ -8,7 +8,6 @@ Como rodar o projeto:
  - Abra o projeto contido na pasta Project;
 
 ## Contributing
-Pull requests são bem vidos. Para maiores modificações, favor abrir uma issue para que possamos discutir o que você deseja alterar.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
